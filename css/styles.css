@@ -1,0 +1,61 @@
+.navbar{
+	background-color: #cccccc;
+	margin-bottom: 0px;
+	}
+	.navbar-brand
+	{
+	margin-left: -10px;
+	
+	}
+.navbar-brand > h1
+{
+	color: #000000;
+	font-size: 30px;
+	font-family: serif;
+	margin-top: -10px;
+	text-align: left;
+	
+	position: absolute;
+	left: 20px;
+	}
+	
+	#collapsable-nav  { /* Collapsed nav menu text */
+    font-size: 1.2em;
+	width: 100%;
+	
+	}
+
+	.container-fluid > p
+	{
+		font-size: 30px;	
+	}
+	
+	.container-fluid
+	{padding: 5px;
+	margin-left: 7px;
+	border: 2px solid #bfbfbf;
+	height: 1000px;
+	background-color: #bfbfbf;
+	width: 98%;
+	}
+	
+	.container-fluid > h1
+	{
+		text-align: center;
+		text-size: 25px;
+	}
+	
+	
+  .l2
+  {
+	  border: 2px solid black;
+  }
+  
+  #l3
+  {
+	  border-left: 2px solid black;
+	  border-right: 2px solid black;
+  }
+  
+  
+  
